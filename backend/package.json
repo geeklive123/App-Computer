@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend de la app movil",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "javier,fabian,nataly,willyan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.20.0"
+  }
+}
